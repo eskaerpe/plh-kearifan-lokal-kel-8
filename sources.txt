@@ -1,0 +1,11 @@
+summary sources (accordion):
+    - https://freefrontend.com/html-details-summary-css/
+    - https://codepen.io/havardob/pen/PoWbeoZ
+    - https://codepen.io/chriscoyier/pen/XWNqxyY
+    - https://codepen.io/knyttneve/pen/LamBMP
+    - https://codepen.io/kamblack/pen/ZjWpdX
+
+IT'S A FUCKING ACCORDION (and its on bootstrap too)
+
+bootstrap accordion: 
+    - https://freefrontend.com/bootstrap-accordions/
