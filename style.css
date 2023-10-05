@@ -1,0 +1,85 @@
+@import url("https://fonts.googleapis.com/css2?family=Satisfy&display=swap");
+/* font-family: 'Satisfy', cursive; */
+
+*,
+html {
+	margin: 0;
+	padding: 0;
+	font-size: 20px;
+	text-align: justify;
+}
+body {
+	background-color: #ffeeda;
+}
+
+html {
+	/* background-color: yellow !important; */
+}
+
+nav {
+	width: 100%;
+	margin: auto;
+	background-color: #362715;
+}
+nav .container-fluid {
+	width: 80%;
+}
+
+body {
+	min-height: 300vh;
+	/* background-color: blue; */
+}
+
+#hero-page {
+	height: 100vh;
+	background-image: url(gambar\ desa\ sade\ ada\ orangnya.jpg);
+	background-repeat: no-repeat;
+	background-size: 100%;
+	background-color: rgb(0, 0, 0, 0.7);
+	background-blend-mode: multiply;
+	background-position: 0% 60%;
+	position: relative;
+}
+
+.hero-content {
+	text-align: center;
+	color: white;
+	padding: 0rem 15rem;
+	/* margin-top: 15rem; */
+}
+
+.title-text {
+	position: relative;
+	top: 8rem;
+}
+
+.title-text h1 {
+	font-size: 100px;
+	color: #ff8f2c;
+	font-family: "Satisfy", cursive;
+}
+.hero-content p,
+.hero-content .col-3,
+.hero-content h3,
+.hero-content h1 {
+	text-align: center;
+}
+
+/* #tahap-1 h2,
+#tahap-2 h2 {
+	
+} */
+
+section h2 {
+	text-align: center;
+	margin-top: 2rem;
+}
+
+#tahap-1 h3,
+#tahap-2 h3 {
+	text-align: left;
+}
+
+li {
+	font-size: 20px;
+}
