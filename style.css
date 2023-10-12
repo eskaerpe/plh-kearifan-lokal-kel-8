@@ -3,66 +3,66 @@
 
 *,
 html {
-	margin: 0;
-	padding: 0;
-	font-size: 20px;
-	text-align: justify;
+    margin: 0;
+    padding: 0;
+    font-size: 20px;
+    text-align: justify;
 }
 body {
-	background-color: #ffeeda;
+    background-color: #ffeeda;
 }
 
 html {
-	/* background-color: yellow !important; */
+    /* background-color: yellow !important; */
 }
 
 nav {
-	width: 100%;
-	margin: auto;
-	background-color: #362715;
+    width: 100%;
+    margin: auto;
+    background-color: #362715;
 }
 nav .container-fluid {
-	width: 80%;
+    width: 80%;
 }
 
 body {
-	min-height: 300vh;
-	/* background-color: blue; */
+    min-height: 300vh;
+    /* background-color: blue; */
 }
 
 #hero-page {
-	height: 100vh;
-	background-image: url(gambar\ desa\ sade\ ada\ orangnya.jpg);
-	background-repeat: no-repeat;
-	background-size: 100%;
-	background-color: rgb(0, 0, 0, 0.8);
-	background-blend-mode: multiply;
-	background-position: 0% 60%;
-	position: relative;
+    height: 100vh;
+    background-image: url(gambar\ desa\ sade\ ada\ orangnya.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-color: rgb(0, 0, 0, 0.8);
+    background-blend-mode: multiply;
+    background-position: 0% 60%;
+    position: relative;
 }
 
 .hero-content {
-	text-align: center;
-	color: white;
-	padding: 0rem 15rem;
-	/* margin-top: 15rem; */
+    text-align: center;
+    color: white;
+    padding: 0rem 15rem;
+    /* margin-top: 15rem; */
 }
 
 .title-text {
-	position: relative;
-	top: 8rem;
+    position: relative;
+    top: 8rem;
 }
 
 .title-text h1 {
-	font-size: 100px;
-	color: #ff8f2c;
-	font-family: "Satisfy", cursive;
+    font-size: 100px;
+    color: #ff8f2c;
+    font-family: "Satisfy", cursive;
 }
 .hero-content p,
 .hero-content .col-3,
 .hero-content h3,
 .hero-content h1 {
-	text-align: center;
+    text-align: center;
 }
 
 /* #tahap-1 h2,
@@ -71,15 +71,35 @@ body {
 } */
 
 section h2 {
-	text-align: center;
-	margin-top: 2rem;
+    text-align: center;
+    margin-top: 2rem;
 }
 
 #tahap-1 h3,
 #tahap-2 h3 {
-	text-align: left;
+    text-align: left;
 }
 
 li {
-	font-size: 20px;
+    font-size: 20px;
+}
+
+#gallery {
+    width: 100%;
+}
+
+#gallery .container-fluid {
+    width: 50%;
+
+    background-color: #362715;
+    margin: 50px auto;
+    padding: 50px 0;
+    color: white;
+    height: 500px;
+    border-radius: 20px;
+}
+
+#gallery .container-fluid .carousel-foto {
+    width: 500px;
+    margin: auto;
 }
